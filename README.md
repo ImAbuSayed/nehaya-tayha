@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبتي نور عيني في الظلام
+> قلبي ينبض لكِ في كل الأيام
+> روحك تسكن روحي بسلام
+> شوقي لكَ يغلب كل الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
