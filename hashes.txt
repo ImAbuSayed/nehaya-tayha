@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nehaya Tayha
+
+This log tracks the cryptographic history and versioning for the song **Nehaya Tayha** (nehaya-tayha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T01:20:21.170207 | `v1` | `d89256191ffa8fc190121a524e9f4497de18c7a95b72f61934345fead929ee3c` | `9387dc123ad50963301f9d318ba83138be553739b9a2ed0cdf013138b09a7679` | `2026-05-09_nehaya-tayha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
